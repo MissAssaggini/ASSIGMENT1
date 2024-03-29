@@ -6,4 +6,5 @@
 - processori.md
 # periferiche
 - tastiere.md
+- mouse.md
 ### Elettronica Padovana
