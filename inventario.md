@@ -5,4 +5,5 @@
 - schede_madri.md
 - processori.md
 # periferiche
+- tastiere.md
 ### Elettronica Padovana
